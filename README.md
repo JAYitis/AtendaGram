@@ -1,4 +1,4 @@
-# sgp
+# AtendaGram
 
 A new Flutter project.
 
